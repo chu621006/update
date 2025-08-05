@@ -4,4 +4,4 @@ pdfplumber>=0.10.0
 Pillow
 pytesseract
 img2table
-opencv-python
+opencv-python # img2table 的依賴
