@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import pdfplumber
+import pdfplumber>=0.10.0
 import collections
 import re 
 
@@ -692,3 +692,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
