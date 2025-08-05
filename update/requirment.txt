@@ -1,3 +1,0 @@
-streamlit
-pandas
-pdfplumber>=0.10.0
